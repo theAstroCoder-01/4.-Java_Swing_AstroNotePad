@@ -38,10 +38,9 @@
             	<li><a href=“#saveas”>Save As</a></li>
             	<li><a href=“#exit”>Exit</a></li>
           <h1></h1>
-		        <li><a href=“#editmenu”>Edit Menu</a></li>
+		<li><a href=“#editmenu”>Edit Menu</a></li>
             	<li><a href=“#undo/redo”>Undo/Redo</a></li>
-            	<li><a href=“#cut/copy/paste/selectall”>Cut/Copy/Paste/SelectAll</a></li>
-            	
+            	<li><a href=“#cut/copy/paste/selectall”>Cut/Copy/Paste/SelectAll</a></li> 	
         </ul>
     </li>
 </ol>
