@@ -45,7 +45,6 @@
 		<li><a href=“#helpmenu”>Help Menu</a></li>
             	<li><a href=“#word/count”>Word Count</a></li>
             	<li><a href=“#about”>About</a></li> 
-
         </ul>
     </li>
 </ol>
