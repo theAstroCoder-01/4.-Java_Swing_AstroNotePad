@@ -27,6 +27,23 @@
     </li>
 </ol>
 
+<h2>Menus and Their Actions</h2>
+
+<ol>
+        <ul>
+            <li><a href=“#filemenu”>File Menu</a></li>
+
+            	<li><a href=“#new”>New</a></li>
+            	<li><a href=“#open”>Open</a></li>
+            	<li><a href=“#save”>Save</a></li>
+            	<li><a href=“#saveas”>Save As</a></li>
+            	<li><a href=“#exit”>Exit</a></li>
+
+        </ul>
+    </li>
+</ol>
+
+
 <h2 id=“mainclass”>Main Class</h2>
 
 <h3 id=“main class”>Main Class</h3>
@@ -37,7 +54,7 @@
 <h2 id=“keyuielements”>Key UI Elements</h2>
 
 <h3 id=“textarea”>Text Area</h3>
-<p>The main component where the user types the text..</p>
+<p>The main component where the user types the text.</p>
 
 <h3 id=“menubar”>Menu Bar</h3>
 <p>Contains three menus—File, Edit, and Help, with relevant actions.</p>
@@ -47,6 +64,26 @@
 
 <h3 id=“scrollpane”>ScrollPane</h3>
 <p>Allows scrolling through the text area if it exceeds the window size.</p>
+
+
+<h2 id=“keyuielements”>Menus and Their Actions</h2>
+
+<h3 id=“new”>New</h3>
+<p>Clears the text area and starts a new document.</p>
+
+<h3 id=“open”>Open</h3>
+<p>Opens a file using a file chooser and reads its content into the text area.</p>
+
+<h3 id=“save”>Save</h3>
+<p>Saves the content of the text area to the current file.</p>
+
+<h3 id=“saveas”>Save As</h3>
+<p>Allows the user to save the document under a different name or location.</p>
+
+<h3 id=“exit”>Exit</h3>
+<p>Closes the application.</p>
+
+
 
 </body>
 
