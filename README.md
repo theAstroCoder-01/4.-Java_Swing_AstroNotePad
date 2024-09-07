@@ -32,13 +32,11 @@
 <ol>
         <ul>
             <li><a href=“#filemenu”>File Menu</a></li>
-
             	<li><a href=“#new”>New</a></li>
             	<li><a href=“#open”>Open</a></li>
             	<li><a href=“#save”>Save</a></li>
             	<li><a href=“#saveas”>Save As</a></li>
             	<li><a href=“#exit”>Exit</a></li>
-
         </ul>
     </li>
 </ol>
