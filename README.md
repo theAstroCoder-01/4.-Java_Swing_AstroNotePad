@@ -37,13 +37,28 @@
             	<li><a href=“#save”>Save</a></li>
             	<li><a href=“#saveas”>Save As</a></li>
             	<li><a href=“#exit”>Exit</a></li>
-          <h1></h1>
+<h1></h1>
 		<li><a href=“#editmenu”>Edit Menu</a></li>
             	<li><a href=“#undo/redo”>Undo/Redo</a></li>
-            	<li><a href=“#cut/copy/paste/selectall”>Cut/Copy/Paste/SelectAll</a></li> 	
+            	<li><a href=“#cut/copy/paste/selectall”>Cut/Copy/Paste/SelectAll</a></li> 
+<h1></h1>
+		<li><a href=“#helpmenu”>Help Menu</a></li>
+            	<li><a href=“#word/count”>Word Count</a></li>
+            	<li><a href=“#about”>About</a></li> 
+
         </ul>
     </li>
 </ol>
+
+<h2>Event Handling</h2>
+
+<ol>
+        <ul>
+        </ul>
+    </li>
+</ol>
+
+
 
 
 
@@ -71,6 +86,8 @@
 
 <h2 id=“keyuielements”>Menus and Their Actions</h2>
 
+<h3 id=“filemenu”>FILE MENU</h3>
+
 <h3 id=“new”>New</h3>
 <p>Clears the text area and starts a new document.</p>
 
@@ -86,11 +103,33 @@
 <h3 id=“exit”>Exit</h3>
 <p>Closes the application.</p>
 
+<h3 id=“eitmenu”>EDIT MENU</h3>
 
+<h3 id=“undo/redo”>Undo/Redo</h3>
+<p>Uses an UndoManager to manage undo/redo operations.</p>
+
+<h3 id=“cut/copy/paste/selectall”>Cut/Copy/Paste/Select All</h3>
+<p>Standard text operations provided by JTextArea.</p>
+
+<h3 id=“helpmenu”>HELP MENU</h3>
+
+<h3 id=“wordcount”>Word Count</h3>
+<p>Shows the word count in the current document..</p>
+
+<h3 id=“aboutl”>About</h3>
+<p>Shows a pop-up with information about the editor.</p>
 
 </body>
 
 </html>
+
+
+
+
+
+
+
+
 
 
 
