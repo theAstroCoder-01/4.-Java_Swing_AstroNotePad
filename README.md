@@ -119,9 +119,9 @@
 <p>Shows a pop-up with information about the editor.</p>
 
 </body>
-
 </html>
 
+![AstroNotePad](https://github.com/user-attachments/assets/2407b48a-e0de-4ea8-90b1-4465127adb56)
 
 
 
